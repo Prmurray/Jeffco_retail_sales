@@ -1,4 +1,6 @@
 # Jeffco_retail_sales
+![retail sales image](https://github.com/Prmurray/Jeffco_retail_sales/blob/main/final%20graph.png?raw=true)
+
 
 I'm currently learning how to work with Matplotlib's object oriented interface (OOI).  
 
